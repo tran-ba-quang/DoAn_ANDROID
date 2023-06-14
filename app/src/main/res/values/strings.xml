@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyLoginApp_2</string>
+    <string name="WelCome">welcome</string>
+    <string name="name">name</string>
+    <string name="email">email</string>
+    <string name="Signout">siginout</string>
+    <string name="Logout">lognout</string>
+
+    <string name="facebook_app_id" translatable="false">1027040384682792</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb1027040384682792</string>
+    <string name="facebook_client_token">90988d2d220e025e8504e4404f45e77c</string>
+    <string name="Forgotpassword">Forgotpassword</string>
+    <string name="nameAu">Name</string>
+    <string name="emailAu">email</string>
+    <string name="hello_blank_fragment">Hello</string>
+</resources>

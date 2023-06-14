@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "144230683609",
+    "firebase_url": "https://myloginapp2-1657894670463-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "myloginapp2-1657894670463",
+    "storage_bucket": "myloginapp2-1657894670463.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144230683609:android:0b017d1a182a3933ac7fc8",
+        "android_client_info": {
+          "package_name": "com.example.myloginapp_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144230683609-4euqsu5c6ts58dmhgghleke1fh5f843h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myloginapp_2",
+            "certificate_hash": "709157595d2a0fadc2d5cc2ced66caa3b1d6433e"
+          }
+        },
+        {
+          "client_id": "144230683609-hkcjurjk2b855iq7mo4bt08badkauv1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApPGP8CEzOa9SUmkbvTfsjfejspR8mZLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144230683609-hkcjurjk2b855iq7mo4bt08badkauv1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
